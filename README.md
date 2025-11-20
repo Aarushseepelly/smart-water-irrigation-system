@@ -122,7 +122,8 @@ ESP8266 can publish battery voltage to Blynk, MQTT, or a webpage.
 Circuit Diagram
 
 
-![Circuit Diagram](images/circuit.png)
+<img width="3000" height="1830" alt="circuit_image" src="https://github.com/user-attachments/assets/d2f4acd6-4ee2-47fa-b233-a286272a124a" />
+
 
 
 
